@@ -1,7 +1,3 @@
-Claro! Aqui está a versão sem títulos:
-
----
-
 Esse projeto é uma implementação de uma pilha encadeada do tipo LIFO (Last In, First Out) em C#. 
 
 Foi feito por Samira Acioli.
